@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Kevin Bagner",
+      "empresa": "Handy Net",
+      "email": "curso@gmail.com.gt",
+      "telefono": "3286663321",
+      "notas": "No hay",
+      "id": 1
+    },
+    {
+      "nombre": "Ediberto Samayoa",
+      "empresa": "Fitness",
+      "email": "fitenes@fit.com",
+      "telefono": "15454889",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
